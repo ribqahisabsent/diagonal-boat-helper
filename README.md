@@ -1,2 +1,12 @@
-# diagonal-boat-helper
-A set of functions for building diagonal boat roads in Minecraft
+# Diagonal Boat Helper
+*A set of functions for building diagonal boat roads in Minecraft*
+
+#### Run in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ribqahisabsent/diagonal-boat-helper/blob/main/diagonal_boat_helper.ipynb)
+
+#### Watch the Video
+
+Notebook tutorial included at *timestamp*
+
+[![Diagonal Boat Roads](https://youtu.be/88TybxATxiw/0.jpg)](https://youtu.be/88TybxATxiw)
