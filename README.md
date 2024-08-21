@@ -9,4 +9,4 @@
 
 Notebook tutorial included at *timestamp*
 
-[![Diagonal Boat Roads](https://youtu.be/88TybxATxiw/0.jpg)](https://youtu.be/88TybxATxiw)
+[![Diagonal Boat Roads](https://img.youtube.com/vi/88TybxATxiw/0.jpg)](https://www.youtube.com/watch?v=88TybxATxiw)
